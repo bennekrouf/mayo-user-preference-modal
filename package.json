@@ -10,7 +10,7 @@
   "author": "Mohamed Bennekrouf",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.8.4",
+    "@types/node": "^22.0.0",
     "typescript": "^5.2.2"
   },
   "peerDependencies": {
